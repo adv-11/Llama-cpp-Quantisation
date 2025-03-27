@@ -1,5 +1,4 @@
-
-
+# Download the model
 from huggingface_hub import snapshot_download
 model_id="meta-llama/Llama-3.2-3B-Instruct"
 
